@@ -1,0 +1,12 @@
+# GeoLínea Tx V1 - bibliotecas externas (uso completo)
+# Python: versión compatible con los paquetes disponibles en Windows.
+requests
+openpyxl
+pyproj
+numpy
+matplotlib
+rarfile
+tkintermapview
+Pillow
+python-docx
+pypdf
